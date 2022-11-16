@@ -1,0 +1,7 @@
+name: wMaticV2
+author: ["Verilog Solutions"]
+rpc_port: https://rpc-mainnet.matic.network
+flag: "PCTF{WmaT1Cv2-BoUnty}"
+tags: ["pwn"]
+description: |
+  A Brand New High-end Wrapped Matic Token !!!!!!!
