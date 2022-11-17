@@ -59,3 +59,11 @@ Find your way to hack around ! But I am sure its really safe.
       return false;
   }
   ```
+
+## Deployed Addresses
+
+| Contract Name      | Address                                    |
+|--------------------|--------------------------------------------|
+| wMatic Contract    | 0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270 |
+| wMatic V2 Contract | 0x5D6C48F05ad0fde3f64baB50628637d73B1eB0BB |
+| Bounty Contract    | 0xBcF6e9d27bf95F3F5eDDB93C38656D684317D5b4 |
